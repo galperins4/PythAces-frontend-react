@@ -9,18 +9,18 @@ Currently in alpha testing, not for production use.
 ```sh
 git clone https://github.com/arkmoon/PythAces-frontend-react
 cd PythAces-frontend-react
-npm i
+yarn install
 ```
 ## Configuration & Usage
 
 Local development:
 ```sh
-npm start
+yarn start
 ```
 
 Production build:
 ```sh
-npm build
+yarn build
 ```
 
 ## To Do
