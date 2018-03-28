@@ -7,8 +7,8 @@ Currently in alpha testing, not for production use.
 ## Installation
 
 ```sh
-git clone https://github.com/arkmoon/pythaces-frontend.git
-cd pythaces-frontend
+git clone https://github.com/arkmoon/PythAces-frontend-react
+cd PythAces-frontend-react
 npm i
 ```
 ## Configuration & Usage
