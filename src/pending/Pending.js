@@ -26,7 +26,7 @@ class Pending extends Component {
         <div className="col-md-12 mb-4">
           <div className="card">
             <div className="card-body">
-              <h3 className="dark-grey-text text-center"><strong>Pending Contracts</strong></h3>
+              <h3 className="dark-grey-text text-center"><strong>Contracts</strong></h3>
               <hr />
               <table className="table">
                 <thead>
